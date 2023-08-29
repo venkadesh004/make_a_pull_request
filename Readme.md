@@ -5,4 +5,5 @@ Append your names in the Readme file and push it in the main repository
 3. Pradeeth D
 4. Santhosh V
 5. Pavithra M A
-6. Naga Harish Madhav M
+7. Naga Harish Madhav M
+8. Santhosh KMR
